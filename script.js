@@ -1,4 +1,3 @@
-//CSC 130 FINAL PROJECT
 //V00876753 Matt Radiuk
 //Code samples from Mozilla Developer Network and Mathieu Foucault 'Pong Game'
 
