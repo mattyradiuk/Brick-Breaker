@@ -1,2 +1,2 @@
 # Brick-Breaker
-Straightforward js browser game for practice
+Straightforward js game just for practice
