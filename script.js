@@ -234,6 +234,6 @@ var r = confirm("Would you like to play?");
 if (r == true) {
   draw();
 } else {
-  draw();
+  close;
 }
 
