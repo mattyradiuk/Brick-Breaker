@@ -1,5 +1,3 @@
 # Brick-Breaker
-Straightforward js game just for practice
+Straightforward js game for csc 135
 
-It doesn't even react to the paddle so every game plays the same,
-I plan to change that in the coming weeks.
