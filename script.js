@@ -1,6 +1,5 @@
 //V00876753 Matt Radiuk
 //Code samples from Mozilla Developer Network and Mathieu Foucault 'Pong Game'
-
 var canvas = document.getElementById("myCanvas");
 var ctx = canvas.getContext("2d");
 var level = 1;
@@ -236,4 +235,3 @@ if (r == true) {
 } else {
   close;
 }
-
