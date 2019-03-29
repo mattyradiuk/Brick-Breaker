@@ -217,6 +217,7 @@ function drawScore() {
   ctx.fillText("Score: "+score, 8, 20);
 }
 
+
 function drawLives() {
   ctx.font = "20px Arial";
   ctx.fillStyle = "#ffffff";
