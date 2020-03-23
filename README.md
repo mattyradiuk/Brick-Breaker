@@ -1,4 +1,4 @@
 # Brick-Breaker
-Straightforward js game for csc 130
+Straightforward JavaScript game for Csc 130
 
 
